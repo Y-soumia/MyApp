@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_acc"
+            android:title="@string/my_acc"
+            android:icon="@drawable/ic_person_filled"/>
+        <item
+            android:id="@+id/nav_ad"
+            android:title="@string/add_ad"
+            android:icon="@drawable/ic_ads" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/action_settings"
+            android:icon="@drawable/ic_settings"/>
+        <item
+            android:id="@+id/nav_contact"
+            android:title="@string/contact_us"
+            android:icon="@drawable/ic_call" />
+        <!--<item
+            android:id="@+id/nav_log_in"
+            android:title="se connecter"
+            android:icon="@drawable/ic_call" />-->
+    </group>
+</menu>

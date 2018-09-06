@@ -1,0 +1,2732 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Khouribga",
+    "cities": {
+      "161": {
+        "id": "161",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "2": {
+    "id": "2",
+    "name": "Safi",
+    "cities": {
+      "2": {
+        "id": "2",
+        "name": "Lalla Hnia Hamria"
+      },
+      "162": {
+        "id": "162",
+        "name": "Ville Nouvelle"
+      },
+      "163": {
+        "id": "163",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "3": {
+    "id": "3",
+    "name": "Fès",
+    "cities": {
+      "3": {
+        "id": "3",
+        "name": "Agdal"
+      },
+      "4": {
+        "id": "4",
+        "name": "Fès Médina"
+      },
+      "5": {
+        "id": "5",
+        "name": "Jnan El ward"
+      },
+      "6": {
+        "id": "6",
+        "name": "Les Mérinides"
+      },
+      "7": {
+        "id": "7",
+        "name": "Saies"
+      },
+      "8": {
+        "id": "8",
+        "name": "Zouagha"
+      },
+      "9": {
+        "id": "9",
+        "name": "Autre secteur"
+      },
+      "164": {
+        "id": "164",
+        "name": "Ain Haroun"
+      },
+      "165": {
+        "id": "165",
+        "name": "Ancienne Médina"
+      },
+      "166": {
+        "id": "166",
+        "name": "Ben Souda"
+      },
+      "167": {
+        "id": "167",
+        "name": "Dar Dbibagh"
+      },
+      "168": {
+        "id": "168",
+        "name": "Dar Mehrez"
+      },
+      "169": {
+        "id": "169",
+        "name": "Hay Saada"
+      },
+      "170": {
+        "id": "170",
+        "name": "Lyrac"
+      },
+      "171": {
+        "id": "171",
+        "name": "Mellah"
+      },
+      "172": {
+        "id": "172",
+        "name": "Mont fleuri"
+      },
+      "173": {
+        "id": "173",
+        "name": "Moulay Abdallah"
+      },
+      "174": {
+        "id": "174",
+        "name": "Oued Fès"
+      },
+      "175": {
+        "id": "175",
+        "name": "Place Alaouine"
+      },
+      "176": {
+        "id": "176",
+        "name": "Talaa"
+      }
+    }
+  },
+  "4": {
+    "id": "4",
+    "name": "Kénitra",
+    "cities": {
+      "10": {
+        "id": "10",
+        "name": "Khabazat"
+      },
+      "11": {
+        "id": "11",
+        "name": "Bir Rami"
+      },
+      "12": {
+        "id": "12",
+        "name": "El Haddada"
+      },
+      "13": {
+        "id": "13",
+        "name": "Bir Rami Industriel"
+      },
+      "14": {
+        "id": "14",
+        "name": "La Cité"
+      },
+      "15": {
+        "id": "15",
+        "name": "Maamora"
+      },
+      "16": {
+        "id": "16",
+        "name": "Ouled Oujih"
+      },
+      "17": {
+        "id": "17",
+        "name": "Sidi Taibi"
+      },
+      "18": {
+        "id": "18",
+        "name": "Autre secteur"
+      },
+      "177": {
+        "id": "177",
+        "name": "Ain Sebaa"
+      },
+      "178": {
+        "id": "178",
+        "name": "Al Alama"
+      },
+      "179": {
+        "id": "179",
+        "name": "Al Baladya"
+      },
+      "180": {
+        "id": "180",
+        "name": "Al Maghrib Al Arabi"
+      },
+      "181": {
+        "id": "181",
+        "name": "Bab Fès"
+      },
+      "182": {
+        "id": "182",
+        "name": "Bir Anzarane"
+      },
+      "183": {
+        "id": "183",
+        "name": "Corcica"
+      },
+      "184": {
+        "id": "184",
+        "name": "Diour 10000"
+      },
+      "185": {
+        "id": "185",
+        "name": "Diour Sniak"
+      },
+      "186": {
+        "id": "186",
+        "name": "El Assam"
+      },
+      "187": {
+        "id": "187",
+        "name": "El Haouzia"
+      },
+      "188": {
+        "id": "188",
+        "name": "El Ismailia"
+      },
+      "189": {
+        "id": "189",
+        "name": "El Menzah"
+      },
+      "190": {
+        "id": "190",
+        "name": "Fouarate"
+      },
+      "191": {
+        "id": "191",
+        "name": "Inara"
+      },
+      "192": {
+        "id": "192",
+        "name": "La Base"
+      },
+      "193": {
+        "id": "193",
+        "name": "La Cigogne"
+      },
+      "194": {
+        "id": "194",
+        "name": "La Ville Haute"
+      },
+      "195": {
+        "id": "195",
+        "name": "Mellah"
+      },
+      "196": {
+        "id": "196",
+        "name": "Mimosas"
+      },
+      "197": {
+        "id": "197",
+        "name": "Ouled M'Barek"
+      },
+      "198": {
+        "id": "198",
+        "name": "PAM"
+      },
+      "199": {
+        "id": "199",
+        "name": "Quartier Al Fath"
+      },
+      "200": {
+        "id": "200",
+        "name": "Quartier Nahda"
+      },
+      "201": {
+        "id": "201",
+        "name": "Seyad"
+      },
+      "202": {
+        "id": "202",
+        "name": "Taïbia"
+      },
+      "203": {
+        "id": "203",
+        "name": "Val Fleury"
+      },
+      "204": {
+        "id": "204",
+        "name": "Village"
+      }
+    }
+  },
+  "5": {
+    "id": "5",
+    "name": "Casablanca",
+    "cities": {
+      "19": {
+        "id": "19",
+        "name": "Aïn Chock"
+      },
+      "20": {
+        "id": "20",
+        "name": "Aïn Sebaâ"
+      },
+      "21": {
+        "id": "21",
+        "name": "Anfa"
+      },
+      "22": {
+        "id": "22",
+        "name": "Ben M'sick"
+      },
+      "23": {
+        "id": "23",
+        "name": "Sidi Bernoussi"
+      },
+      "24": {
+        "id": "24",
+        "name": "Al Fida"
+      },
+      "25": {
+        "id": "25",
+        "name": "Hay Hassani"
+      },
+      "26": {
+        "id": "26",
+        "name": "Hay Moulay Rachid"
+      },
+      "205": {
+        "id": "205",
+        "name": "2 Mars"
+      },
+      "206": {
+        "id": "206",
+        "name": "Aïn Borja"
+      },
+      "207": {
+        "id": "207",
+        "name": "Aïn Diab"
+      },
+      "208": {
+        "id": "208",
+        "name": "Al Batha"
+      },
+      "209": {
+        "id": "209",
+        "name": "Alsace Lorraine"
+      },
+      "210": {
+        "id": "210",
+        "name": "Beauséjour"
+      },
+      "211": {
+        "id": "211",
+        "name": "Belvédère"
+      },
+      "212": {
+        "id": "212",
+        "name": "Ben Ejdia"
+      },
+      "213": {
+        "id": "213",
+        "name": "Benmsik"
+      },
+      "214": {
+        "id": "214",
+        "name": "Bourgogne"
+      },
+      "215": {
+        "id": "215",
+        "name": "Californie"
+      },
+      "216": {
+        "id": "216",
+        "name": "Centre Ville"
+      },
+      "217": {
+        "id": "217",
+        "name": "C.I.L"
+      },
+      "218": {
+        "id": "218",
+        "name": "Dar Bouazza"
+      },
+      "219": {
+        "id": "219",
+        "name": "Derb Ghallef"
+      },
+      "220": {
+        "id": "220",
+        "name": "Derb Omar"
+      },
+      "221": {
+        "id": "221",
+        "name": "El Manar El Hank"
+      },
+      "222": {
+        "id": "222",
+        "name": "Errahma"
+      },
+      "223": {
+        "id": "223",
+        "name": "Ferme Bretone"
+      },
+      "224": {
+        "id": "224",
+        "name": "Florida"
+      },
+      "225": {
+        "id": "225",
+        "name": "Fonciere"
+      },
+      "226": {
+        "id": "226",
+        "name": "Gauthier"
+      },
+      "227": {
+        "id": "227",
+        "name": "Habous"
+      },
+      "228": {
+        "id": "228",
+        "name": "Hay Mohammadi"
+      },
+      "229": {
+        "id": "229",
+        "name": "Hay Hana"
+      },
+      "230": {
+        "id": "230",
+        "name": "Hay Inara"
+      },
+      "231": {
+        "id": "231",
+        "name": "Hay Laymouna"
+      },
+      "232": {
+        "id": "232",
+        "name": "Hermitage"
+      },
+      "233": {
+        "id": "233",
+        "name": "Hippodrome"
+      },
+      "234": {
+        "id": "234",
+        "name": "Hôrloge"
+      },
+      "235": {
+        "id": "235",
+        "name": "Industriel Nord"
+      },
+      "236": {
+        "id": "236",
+        "name": "La Gare"
+      },
+      "237": {
+        "id": "237",
+        "name": "La Gironde"
+      },
+      "238": {
+        "id": "238",
+        "name": "Laimoune"
+      },
+      "239": {
+        "id": "239",
+        "name": "Les Camps"
+      },
+      "240": {
+        "id": "240",
+        "name": "Les Cretes"
+      },
+      "241": {
+        "id": "241",
+        "name": "Les Princesses"
+      },
+      "242": {
+        "id": "242",
+        "name": "Lissasfa"
+      },
+      "243": {
+        "id": "243",
+        "name": "Longchamps"
+      },
+      "244": {
+        "id": "244",
+        "name": "Lusitania"
+      },
+      "245": {
+        "id": "245",
+        "name": "Maarif"
+      },
+      "246": {
+        "id": "246",
+        "name": "Mers Sultan"
+      },
+      "247": {
+        "id": "247",
+        "name": "Oasis"
+      },
+      "248": {
+        "id": "248",
+        "name": "Oulfa"
+      },
+      "249": {
+        "id": "249",
+        "name": "Palmier"
+      },
+      "250": {
+        "id": "250",
+        "name": "Parc"
+      },
+      "251": {
+        "id": "251",
+        "name": "Polo"
+      },
+      "252": {
+        "id": "252",
+        "name": "Quartier des Hôpitaux"
+      },
+      "253": {
+        "id": "253",
+        "name": "Racine"
+      },
+      "254": {
+        "id": "254",
+        "name": "Riviera"
+      },
+      "255": {
+        "id": "255",
+        "name": "Roches Noires"
+      },
+      "256": {
+        "id": "256",
+        "name": "Route d'Azemmour"
+      },
+      "257": {
+        "id": "257",
+        "name": "Route d'El Jadida"
+      },
+      "258": {
+        "id": "258",
+        "name": "Sbata"
+      },
+      "259": {
+        "id": "259",
+        "name": "Sidi Belyout"
+      },
+      "260": {
+        "id": "260",
+        "name": "Sidi Maarouf"
+      },
+      "261": {
+        "id": "261",
+        "name": "Sidi Moumen"
+      },
+      "262": {
+        "id": "262",
+        "name": "Sidi Othmane"
+      },
+      "263": {
+        "id": "263",
+        "name": "Sidi Rehal"
+      },
+      "264": {
+        "id": "264",
+        "name": "Sour Jdid"
+      },
+      "265": {
+        "id": "265",
+        "name": "Tantonville"
+      },
+      "266": {
+        "id": "266",
+        "name": "Tit Mellil"
+      },
+      "267": {
+        "id": "267",
+        "name": "Triangle d'Or"
+      },
+      "268": {
+        "id": "268",
+        "name": "Val d'Anfa"
+      },
+      "269": {
+        "id": "269",
+        "name": "Val Fleuri"
+      }
+    }
+  },
+  "6": {
+    "id": "6",
+    "name": "Salé",
+    "cities": {
+      "30": {
+        "id": "30",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "7": {
+    "id": "7",
+    "name": "El Jadida",
+    "cities": {
+      "31": {
+        "id": "31",
+        "name": "Centre"
+      },
+      "270": {
+        "id": "270",
+        "name": "Alaouiyine"
+      },
+      "271": {
+        "id": "271",
+        "name": "Amal"
+      },
+      "272": {
+        "id": "272",
+        "name": "Najd"
+      },
+      "273": {
+        "id": "273",
+        "name": "Saada"
+      },
+      "274": {
+        "id": "274",
+        "name": "Salama"
+      },
+      "275": {
+        "id": "275",
+        "name": "Sidi Bouzid"
+      },
+      "276": {
+        "id": "276",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "8": {
+    "id": "8",
+    "name": "Marrakech",
+    "cities": {
+      "32": {
+        "id": "32",
+        "name": "Akioud"
+      },
+      "33": {
+        "id": "33",
+        "name": "Amerchich"
+      },
+      "34": {
+        "id": "34",
+        "name": "Annakhil"
+      },
+      "35": {
+        "id": "35",
+        "name": "Bin Lkchali"
+      },
+      "36": {
+        "id": "36",
+        "name": "Daoudiate"
+      },
+      "37": {
+        "id": "37",
+        "name": "Es Saada"
+      },
+      "38": {
+        "id": "38",
+        "name": "Fassi"
+      },
+      "39": {
+        "id": "39",
+        "name": "Guéliz"
+      },
+      "40": {
+        "id": "40",
+        "name": "Hivernage"
+      },
+      "41": {
+        "id": "41",
+        "name": "Inara"
+      },
+      "42": {
+        "id": "42",
+        "name": "Masmoudi"
+      },
+      "43": {
+        "id": "43",
+        "name": "Massira"
+      },
+      "44": {
+        "id": "44",
+        "name": "Centre Ville"
+      },
+      "45": {
+        "id": "45",
+        "name": "Ouahat Sidi Brahim"
+      },
+      "46": {
+        "id": "46",
+        "name": "Oued Ourika"
+      },
+      "47": {
+        "id": "47",
+        "name": "Oued Tensift"
+      },
+      "48": {
+        "id": "48",
+        "name": "Oulad Said"
+      },
+      "49": {
+        "id": "49",
+        "name": "Palmeraie"
+      },
+      "50": {
+        "id": "50",
+        "name": "Sakar"
+      },
+      "51": {
+        "id": "51",
+        "name": "Sidi Youssef Ben Ali"
+      },
+      "52": {
+        "id": "52",
+        "name": "Sofia"
+      },
+      "53": {
+        "id": "53",
+        "name": "Targa"
+      },
+      "54": {
+        "id": "54",
+        "name": "Autre secteur"
+      },
+      "277": {
+        "id": "277",
+        "name": "Afaq"
+      },
+      "278": {
+        "id": "278",
+        "name": "Agdal"
+      },
+      "279": {
+        "id": "279",
+        "name": "Allal El Fassi"
+      },
+      "280": {
+        "id": "280",
+        "name": "Amelkis"
+      },
+      "281": {
+        "id": "281",
+        "name": "Ancienne Médina"
+      },
+      "282": {
+        "id": "282",
+        "name": "Assif"
+      },
+      "283": {
+        "id": "283",
+        "name": "Av Abdelkrim El Khattabi"
+      },
+      "284": {
+        "id": "284",
+        "name": "Av Mohammed V"
+      },
+      "285": {
+        "id": "285",
+        "name": "Av Mohammed VI"
+      },
+      "286": {
+        "id": "286",
+        "name": "Azli"
+      },
+      "287": {
+        "id": "287",
+        "name": "Azzouzia"
+      },
+      "288": {
+        "id": "288",
+        "name": "Bab Atlas"
+      },
+      "289": {
+        "id": "289",
+        "name": "Bab Doukkala"
+      },
+      "290": {
+        "id": "290",
+        "name": "Bab El Khemis"
+      },
+      "291": {
+        "id": "291",
+        "name": "Bab Ighli"
+      },
+      "292": {
+        "id": "292",
+        "name": "Bd Moulay Abdellah"
+      },
+      "293": {
+        "id": "293",
+        "name": "El Ghoul"
+      },
+      "294": {
+        "id": "294",
+        "name": "Harti"
+      },
+      "295": {
+        "id": "295",
+        "name": "Hay Andalous"
+      },
+      "296": {
+        "id": "296",
+        "name": "Hay Charaf"
+      },
+      "297": {
+        "id": "297",
+        "name": "Hay Izdihar"
+      },
+      "298": {
+        "id": "298",
+        "name": "Hay Massira"
+      },
+      "299": {
+        "id": "299",
+        "name": "Hôpital Militaire"
+      },
+      "300": {
+        "id": "300",
+        "name": "Issil"
+      },
+      "301": {
+        "id": "301",
+        "name": "Jemaa El Fna"
+      },
+      "302": {
+        "id": "302",
+        "name": "Kadissia"
+      },
+      "303": {
+        "id": "303",
+        "name": "Lac Takerkoust"
+      },
+      "304": {
+        "id": "304",
+        "name": "Mabrouka"
+      },
+      "305": {
+        "id": "305",
+        "name": "Majorelle"
+      },
+      "306": {
+        "id": "306",
+        "name": "Massar"
+      },
+      "307": {
+        "id": "307",
+        "name": "M'Hamid"
+      },
+      "308": {
+        "id": "308",
+        "name": "Rouidat"
+      },
+      "309": {
+        "id": "309",
+        "name": "Route d'Amezmiz"
+      },
+      "310": {
+        "id": "310",
+        "name": "Route de Casablanca"
+      },
+      "311": {
+        "id": "311",
+        "name": "Route de Fès"
+      },
+      "312": {
+        "id": "312",
+        "name": "Route de Lalla Takerkoust"
+      },
+      "313": {
+        "id": "313",
+        "name": "Route de Ouarzazate"
+      },
+      "314": {
+        "id": "314",
+        "name": "Route d'Ourika"
+      },
+      "315": {
+        "id": "315",
+        "name": "Route de Safi"
+      },
+      "316": {
+        "id": "316",
+        "name": "Route de Sidi A. Ghiat"
+      },
+      "317": {
+        "id": "317",
+        "name": "Route de Tahanaoute"
+      },
+      "318": {
+        "id": "318",
+        "name": "Route de Tamansourt"
+      },
+      "319": {
+        "id": "319",
+        "name": "Semlalia"
+      },
+      "320": {
+        "id": "320",
+        "name": "Sidi Abbad"
+      },
+      "321": {
+        "id": "321",
+        "name": "Sidi Abdellah Ghiat"
+      },
+      "322": {
+        "id": "322",
+        "name": "Sidi Ghanem"
+      },
+      "323": {
+        "id": "323",
+        "name": "Victor Hugo"
+      }
+    }
+  },
+  "9": {
+    "id": "9",
+    "name": "Meknès",
+    "cities": {
+      "55": {
+        "id": "55",
+        "name": "Ben Mohammed"
+      },
+      "56": {
+        "id": "56",
+        "name": "Berrima"
+      },
+      "57": {
+        "id": "57",
+        "name": "Bourj Moulay Omar"
+      },
+      "58": {
+        "id": "58",
+        "name": "Cité Impériale"
+      },
+      "59": {
+        "id": "59",
+        "name": "Dar Kebira"
+      },
+      "60": {
+        "id": "60",
+        "name": "El Bassatine"
+      },
+      "61": {
+        "id": "61",
+        "name": "El Mechouar Stinia"
+      },
+      "62": {
+        "id": "62",
+        "name": "Kasbat"
+      },
+      "63": {
+        "id": "63",
+        "name": "Khedrache"
+      },
+      "64": {
+        "id": "64",
+        "name": "Marjane 2"
+      },
+      "65": {
+        "id": "65",
+        "name": "Mèdina"
+      },
+      "66": {
+        "id": "66",
+        "name": "Nouveau Mellah"
+      },
+      "67": {
+        "id": "67",
+        "name": "Omar"
+      },
+      "68": {
+        "id": "68",
+        "name": "Riad Toulal"
+      },
+      "69": {
+        "id": "69",
+        "name": "Sbata"
+      },
+      "70": {
+        "id": "70",
+        "name": "Sidi Amar Hassini"
+      },
+      "71": {
+        "id": "71",
+        "name": "Ville Nouvelle"
+      },
+      "72": {
+        "id": "72",
+        "name": "Autre secteur"
+      },
+      "324": {
+        "id": "324",
+        "name": "Ancienne Médina"
+      },
+      "325": {
+        "id": "325",
+        "name": "Bele Vue"
+      },
+      "326": {
+        "id": "326",
+        "name": "Hamria"
+      },
+      "327": {
+        "id": "327",
+        "name": "Hay Salam"
+      },
+      "328": {
+        "id": "328",
+        "name": "La Hacienda"
+      },
+      "329": {
+        "id": "329",
+        "name": "Rouamzine"
+      },
+      "330": {
+        "id": "330",
+        "name": "Sidi Bouzekri"
+      },
+      "331": {
+        "id": "331",
+        "name": "Sidi Said"
+      },
+      "332": {
+        "id": "332",
+        "name": "Wislane"
+      },
+      "333": {
+        "id": "333",
+        "name": "Zerhounia"
+      },
+      "334": {
+        "id": "334",
+        "name": "Zitoune"
+      }
+    }
+  },
+  "10": {
+    "id": "10",
+    "name": "Oujda",
+    "cities": {
+      "73": {
+        "id": "73",
+        "name": "Centre Ville"
+      },
+      "335": {
+        "id": "335",
+        "name": "Bd Jaych Tahrir"
+      },
+      "336": {
+        "id": "336",
+        "name": "CGI"
+      },
+      "337": {
+        "id": "337",
+        "name": "Hay El Andalous"
+      },
+      "338": {
+        "id": "338",
+        "name": "Hay El Hikma"
+      },
+      "339": {
+        "id": "339",
+        "name": "Hay El Qods"
+      },
+      "340": {
+        "id": "340",
+        "name": "Hay Lazaret"
+      },
+      "341": {
+        "id": "341",
+        "name": "Hay Salam"
+      },
+      "342": {
+        "id": "342",
+        "name": "Hay Takkadom"
+      },
+      "343": {
+        "id": "343",
+        "name": "Iris"
+      },
+      "344": {
+        "id": "344",
+        "name": "Route Jerada"
+      },
+      "345": {
+        "id": "345",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "11": {
+    "id": "11",
+    "name": "Tétouan",
+    "cities": {
+      "74": {
+        "id": "74",
+        "name": "Al Azhar"
+      },
+      "75": {
+        "id": "75",
+        "name": "Cabo negro"
+      },
+      "76": {
+        "id": "76",
+        "name": "Centre ville"
+      },
+      "77": {
+        "id": "77",
+        "name": "Dersa"
+      },
+      "79": {
+        "id": "79",
+        "name": "Kouilma"
+      },
+      "81": {
+        "id": "81",
+        "name": "Medina"
+      },
+      "83": {
+        "id": "83",
+        "name": "Mhannech"
+      },
+      "84": {
+        "id": "84",
+        "name": "Safir"
+      },
+      "85": {
+        "id": "85",
+        "name": "Saniat Rmal"
+      },
+      "86": {
+        "id": "86",
+        "name": "Sidi Al Mandri"
+      },
+      "87": {
+        "id": "87",
+        "name": "Sidi Talha"
+      },
+      "88": {
+        "id": "88",
+        "name": "Slaoui"
+      },
+      "89": {
+        "id": "89",
+        "name": "Torrota"
+      },
+      "90": {
+        "id": "90",
+        "name": "Touilaa"
+      },
+      "91": {
+        "id": "91",
+        "name": "Autre secteur"
+      },
+      "346": {
+        "id": "346",
+        "name": "Route de Ceuta"
+      },
+      "347": {
+        "id": "347",
+        "name": "Ziana"
+      }
+    }
+  },
+  "12": {
+    "id": "12",
+    "name": "Rabat",
+    "cities": {
+      "92": {
+        "id": "92",
+        "name": "Aakkari"
+      },
+      "93": {
+        "id": "93",
+        "name": "Agdal"
+      },
+      "94": {
+        "id": "94",
+        "name": "Aviation"
+      },
+      "95": {
+        "id": "95",
+        "name": "Diour Jamaa"
+      },
+      "96": {
+        "id": "96",
+        "name": "Douar el Hajja"
+      },
+      "97": {
+        "id": "97",
+        "name": "Hassan"
+      },
+      "98": {
+        "id": "98",
+        "name": "Hay el Fath"
+      },
+      "99": {
+        "id": "99",
+        "name": "Hay Nahda"
+      },
+      "100": {
+        "id": "100",
+        "name": "Hay Riad"
+      },
+      "101": {
+        "id": "101",
+        "name": "Les Ambassadeurs"
+      },
+      "102": {
+        "id": "102",
+        "name": "Les Orangers"
+      },
+      "103": {
+        "id": "103",
+        "name": "Les Oudayas"
+      },
+      "104": {
+        "id": "104",
+        "name": "Mabella"
+      },
+      "105": {
+        "id": "105",
+        "name": "Massira"
+      },
+      "106": {
+        "id": "106",
+        "name": "Médina de Rabat"
+      },
+      "107": {
+        "id": "107",
+        "name": "Rommani"
+      },
+      "108": {
+        "id": "108",
+        "name": "Souissi"
+      },
+      "109": {
+        "id": "109",
+        "name": "Taqaddoum"
+      },
+      "110": {
+        "id": "110",
+        "name": "Yacoub El Mansour"
+      },
+      "111": {
+        "id": "111",
+        "name": "Youssoufia"
+      },
+      "112": {
+        "id": "112",
+        "name": "Autre secteur"
+      },
+      "348": {
+        "id": "348",
+        "name": "Quartier de l'Océan"
+      }
+    }
+  },
+  "13": {
+    "id": "13",
+    "name": "Agadir",
+    "cities": {
+      "113": {
+        "id": "113",
+        "name": "Bouargane"
+      },
+      "114": {
+        "id": "114",
+        "name": "Charaff"
+      },
+      "115": {
+        "id": "115",
+        "name": "Hay Dakhla"
+      },
+      "116": {
+        "id": "116",
+        "name": "El Houda"
+      },
+      "117": {
+        "id": "117",
+        "name": "Founty"
+      },
+      "118": {
+        "id": "118",
+        "name": "Haut-Founty"
+      },
+      "119": {
+        "id": "119",
+        "name": "Hay Mohammadi"
+      },
+      "120": {
+        "id": "120",
+        "name": "Iligh"
+      },
+      "121": {
+        "id": "121",
+        "name": "Lkhiam"
+      },
+      "122": {
+        "id": "122",
+        "name": "Le bord de mer"
+      },
+      "123": {
+        "id": "123",
+        "name": "Le centre-ville"
+      },
+      "124": {
+        "id": "124",
+        "name": "Les Amicales"
+      },
+      "125": {
+        "id": "125",
+        "name": "Najah"
+      },
+      "126": {
+        "id": "126",
+        "name": "Hay Qods"
+      },
+      "127": {
+        "id": "127",
+        "name": "Hay Salam"
+      },
+      "128": {
+        "id": "128",
+        "name": "Suisse"
+      },
+      "129": {
+        "id": "129",
+        "name": "Talborjt"
+      },
+      "130": {
+        "id": "130",
+        "name": "Wafaa"
+      },
+      "131": {
+        "id": "131",
+        "name": "Autre secteur"
+      },
+      "349": {
+        "id": "349",
+        "name": "Arghoud"
+      },
+      "350": {
+        "id": "350",
+        "name": "Al Wifaq"
+      },
+      "351": {
+        "id": "351",
+        "name": "Anoual Souss"
+      },
+      "352": {
+        "id": "352",
+        "name": "Aourir"
+      },
+      "353": {
+        "id": "353",
+        "name": "Av des Far"
+      },
+      "354": {
+        "id": "354",
+        "name": "Av Mokawama"
+      },
+      "355": {
+        "id": "355",
+        "name": "Ben Serguaou"
+      },
+      "356": {
+        "id": "356",
+        "name": "Centre Ville"
+      },
+      "357": {
+        "id": "357",
+        "name": "Ennahda"
+      },
+      "358": {
+        "id": "358",
+        "name": "Hay Massira"
+      },
+      "359": {
+        "id": "359",
+        "name": "Hay Najah"
+      },
+      "360": {
+        "id": "360",
+        "name": "Marina"
+      },
+      "361": {
+        "id": "361",
+        "name": "Riad Salam"
+      },
+      "362": {
+        "id": "362",
+        "name": "Sonaba"
+      },
+      "363": {
+        "id": "363",
+        "name": "Taghazout"
+      },
+      "364": {
+        "id": "364",
+        "name": "Tamraght"
+      },
+      "365": {
+        "id": "365",
+        "name": "Tilila"
+      },
+      "366": {
+        "id": "366",
+        "name": "Ville Nouvelle"
+      },
+      "367": {
+        "id": "367",
+        "name": "Wifaq"
+      }
+    }
+  },
+  "14": {
+    "id": "14",
+    "name": "Béni Mellal",
+    "cities": {
+      "132": {
+        "id": "132",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "15": {
+    "id": "15",
+    "name": "Tanger",
+    "cities": {
+      "133": {
+        "id": "133",
+        "name": "Al Kasaba"
+      },
+      "134": {
+        "id": "134",
+        "name": "Aviation"
+      },
+      "135": {
+        "id": "135",
+        "name": "Cap spartel"
+      },
+      "136": {
+        "id": "136",
+        "name": "Centre ville"
+      },
+      "137": {
+        "id": "137",
+        "name": "Cité californie"
+      },
+      "138": {
+        "id": "138",
+        "name": "Girari"
+      },
+      "139": {
+        "id": "139",
+        "name": "Ibn Taymia"
+      },
+      "140": {
+        "id": "140",
+        "name": "M'nar"
+      },
+      "141": {
+        "id": "141",
+        "name": "M'sallah"
+      },
+      "142": {
+        "id": "142",
+        "name": "Makhoukha"
+      },
+      "143": {
+        "id": "143",
+        "name": "Malabata"
+      },
+      "144": {
+        "id": "144",
+        "name": "Marchane"
+      },
+      "145": {
+        "id": "145",
+        "name": "Marjane"
+      },
+      "146": {
+        "id": "146",
+        "name": "Moujahidine"
+      },
+      "147": {
+        "id": "147",
+        "name": "Moulay Youssef"
+      },
+      "148": {
+        "id": "148",
+        "name": "Santa"
+      },
+      "149": {
+        "id": "149",
+        "name": "Val Fleuri"
+      },
+      "150": {
+        "id": "150",
+        "name": "Vieille montagne"
+      },
+      "151": {
+        "id": "151",
+        "name": "Ziatene"
+      },
+      "152": {
+        "id": "152",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "16": {
+    "id": "16",
+    "name": "Taza",
+    "cities": {
+      "153": {
+        "id": "153",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "17": {
+    "id": "17",
+    "name": "Al Hocïema",
+    "cities": {
+      "154": {
+        "id": "154",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "18": {
+    "id": "18",
+    "name": "Errachidia",
+    "cities": {
+      "155": {
+        "id": "155",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "19": {
+    "id": "19",
+    "name": "Khénifra",
+    "cities": {
+      "156": {
+        "id": "156",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "20": {
+    "id": "20",
+    "name": "Larache",
+    "cities": {
+      "157": {
+        "id": "157",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "21": {
+    "id": "21",
+    "name": "Nador",
+    "cities": {
+      "158": {
+        "id": "158",
+        "name": "Centre Ville"
+      },
+      "368": {
+        "id": "368",
+        "name": "Al Boustane"
+      },
+      "369": {
+        "id": "369",
+        "name": "Hay Al Matar"
+      },
+      "370": {
+        "id": "370",
+        "name": "Ouled Lahcen"
+      },
+      "371": {
+        "id": "371",
+        "name": "Selouane"
+      },
+      "372": {
+        "id": "372",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "22": {
+    "id": "22",
+    "name": "Ouarzazate",
+    "cities": {
+      "159": {
+        "id": "159",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "23": {
+    "id": "23",
+    "name": "Settat",
+    "cities": {
+      "160": {
+        "id": "160",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "24": {
+    "id": "24",
+    "name": "Ain Aouda",
+    "cities": {
+      "408": {
+        "id": "408",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "25": {
+    "id": "25",
+    "name": "Ain Harrouda",
+    "cities": {
+      "409": {
+        "id": "409",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "26": {
+    "id": "26",
+    "name": "Ait Baha",
+    "cities": {
+      "410": {
+        "id": "410",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "27": {
+    "id": "27",
+    "name": "Ait Melloul",
+    "cities": {
+      "411": {
+        "id": "411",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "28": {
+    "id": "28",
+    "name": "Al Haouz",
+    "cities": {
+      "412": {
+        "id": "412",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "29": {
+    "id": "29",
+    "name": "Aousserd",
+    "cities": {
+      "413": {
+        "id": "413",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "30": {
+    "id": "30",
+    "name": "Arfoud",
+    "cities": {
+      "414": {
+        "id": "414",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "31": {
+    "id": "31",
+    "name": "Assa zag",
+    "cities": {
+      "415": {
+        "id": "415",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "32": {
+    "id": "32",
+    "name": "Assilah",
+    "cities": {
+      "416": {
+        "id": "416",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "33": {
+    "id": "33",
+    "name": "Azemmour",
+    "cities": {
+      "417": {
+        "id": "417",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "34": {
+    "id": "34",
+    "name": "Azilal",
+    "cities": {
+      "418": {
+        "id": "418",
+        "name": "Toute la ville"
+      }
+    }
+  },
+  "35": {
+    "id": "35",
+    "name": "Azrou",
+    "cities":
+    { "419"
+    :{ "id" : "419" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "36": {
+    "id": "36",
+    "name": "Ben Ahmed",
+    "cities":
+    { "420"
+    :{ "id" : "420" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "37": {
+    "id": "37",
+    "name": "Ben Guerir",
+    "cities":
+    {
+      "421" :
+      {
+        "id" : "421" ,
+        "name" : "Toute la ville"
+      }
+    }
+  },
+  "39": {
+    "id": "39",
+    "name": "Benslimane",
+    "cities": {
+      "373": {
+        "id": "373",
+        "name": "Administratif"
+      },
+      "374": {
+        "id": "374",
+        "name": "Al Filline"
+      },
+      "375": {
+        "id": "375",
+        "name": "Quods"
+      },
+      "376": {
+        "id": "376",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "40": {
+    "id": "40",
+    "name": "Berkane",
+    "cities":
+    { "423"
+    :{ "id" : "423" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "41": {
+    "id": "41",
+    "name": "Berrechid",
+    "cities":
+    { "424"
+    :{ "id" : "424" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "42": {
+    "id": "42",
+    "name": "Bin El Ouidane",
+    "cities":
+    { "425"
+    :{ "id" : "425" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "43": {
+    "id": "43",
+    "name": "Bir Jdid",
+    "cities":
+    { "426"
+    :{ "id" : "426" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "44": {
+    "id": "44",
+    "name": "Boujdour",
+    "cities":
+    { "427"
+    :{ "id" : "427" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "45": {
+    "id": "45",
+    "name": "Boujniba",
+    "cities":
+    { "428"
+    :{ "id" : "428" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "46": {
+    "id": "46",
+    "name": "Boulanouar",
+    "cities":
+    { "429"
+    :{ "id" : "429" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "47": {
+    "id": "47",
+    "name": "Boulmane",
+    "cities":
+    { "430"
+    :{ "id" : "430" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "48": {
+    "id": "48",
+    "name": "Bouskoura",
+    "cities":
+    { "431"
+    :{ "id" : "431" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "49": {
+    "id": "49",
+    "name": "Bousselham",
+    "cities":
+    { "432"
+    :{ "id" : "432" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "50": {
+    "id": "50",
+    "name": "Bouznika",
+    "cities": {
+      "377": {
+        "id": "377",
+        "name": "Quartier Industriel"
+      },
+      "378": {
+        "id": "378",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "51": {
+    "id": "51",
+    "name": "Chefchaouen",
+    "cities":
+    { "434"
+    :{ "id" : "434" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "52": {
+    "id": "52",
+    "name": "Chichaoua",
+    "cities":
+    { "435"
+    :{ "id" : "435" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "53": {
+    "id": "53",
+    "name": "Dakhla",
+    "cities":
+    { "436"
+    :{ "id" : "436" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "54": {
+    "id": "54",
+    "name": "Dar Chaffai",
+    "cities":
+    { "437"
+    :{ "id" : "437" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "55": {
+    "id": "55",
+    "name": "Deroua",
+    "cities":
+    { "438"
+    :{ "id" : "438" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "56": {
+    "id": "56",
+    "name": "El Borouj",
+    "cities":
+    { "439"
+    :{ "id" : "439" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "57": {
+    "id": "57",
+    "name": "El Hajeb",
+    "cities":
+    { "440"
+    :{ "id" : "440" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "58": {
+    "id": "58",
+    "name": "El Harhoura",
+    "cities":
+    { "441"
+    :{ "id" : "441" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "59": {
+    "id": "59",
+    "name": "El Mansouria",
+    "cities":
+    { "442"
+    :{ "id" : "442" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "60": {
+    "id": "60",
+    "name": "El Gara",
+    "cities":
+    { "443"
+    :{ "id" : "443" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "61": {
+    "id": "61",
+    "name": "Es-Semara",
+    "cities":
+    { "444"
+    :{ "id" : "444" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "62": {
+    "id": "62",
+    "name": "Essaouira",
+    "cities":
+    { "445"
+    :{ "id" : "445" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "63": {
+    "id": "63",
+    "name": "Figuig",
+    "cities":
+    { "446"
+    :{ "id" : "446" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "64": {
+    "id": "64",
+    "name": "Fnideq",
+    "cities":
+    { "447"
+    :{ "id" : "447" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "65": {
+    "id": "65",
+    "name": "Fquih Ben Saleh",
+    "cities":
+    { "448"
+    :{ "id" : "448" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "66": {
+    "id": "66",
+    "name": "Goulmima",
+    "cities":
+    { "449"
+    :{ "id" : "449" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "67": {
+    "id": "67",
+    "name": "Guelmim",
+    "cities":
+    { "450"
+    :{ "id" : "450" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "68": {
+    "id": "68",
+    "name": "Guercif",
+    "cities":
+    { "451"
+    :{ "id" : "451" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "69": {
+    "id": "69",
+    "name": "Had Soualem",
+    "cities":
+    { "452"
+    :{ "id" : "452" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "70": {
+    "id": "70",
+    "name": "Ifrane",
+    "cities": {
+      "379": {
+        "id": "379",
+        "name": "La Prairie"
+      },
+      "380": {
+        "id": "380",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "71": {
+    "id": "71",
+    "name": "Imouzzer",
+    "cities":
+    { "454"
+    :{ "id" : "454" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "72": {
+    "id": "72",
+    "name": "Inzegan",
+    "cities":
+    { "455"
+    :{ "id" : "455" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "73": {
+    "id": "73",
+    "name": "Jamaat Shaim",
+    "cities":
+    { "456"
+    :{ "id" : "456" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "74": {
+    "id": "74",
+    "name": "Jrada",
+    "cities":
+    { "457"
+    :{ "id" : "457" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "75": {
+    "id": "75",
+    "name": "Kelaat Es-Sraghna",
+    "cities":
+    { "458"
+    :{ "id" : "458" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "76": {
+    "id": "76",
+    "name": "Khemisset",
+    "cities":
+    { "459"
+    :{ "id" : "459" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "77": {
+    "id": "77",
+    "name": "Ksar el-Kebir",
+    "cities":
+    { "460"
+    :{ "id" : "460" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "78": {
+    "id": "78",
+    "name": "Ksar es-Seghir",
+    "cities":
+    { "461"
+    :{ "id" : "461" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "79": {
+    "id": "79",
+    "name": "Lagouira",
+    "cities":
+    { "462"
+    :{ "id" : "462" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "80": {
+    "id": "80",
+    "name": "Lakhiaita",
+    "cities":
+    { "463"
+    :{ "id" : "463" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "81": {
+    "id": "81",
+    "name": "Laâyoune",
+    "cities":
+    { "464"
+    :{ "id" : "464" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "82": {
+    "id": "82",
+    "name": "Martil",
+    "cities":
+    { "465"
+    :{ "id" : "465" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "83": {
+    "id": "83",
+    "name": "Mediouna",
+    "cities":
+    { "466"
+    :{ "id" : "466" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "84": {
+    "id": "84",
+    "name": "Mehdia",
+    "cities":
+    { "467"
+    :{ "id" : "467" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "85": {
+    "id": "85",
+    "name": "Merzouga",
+    "cities":
+    { "468"
+    :{ "id" : "468" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "86": {
+    "id": "86",
+    "name": "Mdiq",
+    "cities":
+    { "469"
+    :{ "id" : "469" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "87": {
+    "id": "87",
+    "name": "Midelt",
+    "cities":
+    { "470"
+    :{ "id" : "470" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "88": {
+    "id": "88",
+    "name": "Mirleft",
+    "cities":
+    { "471"
+    :{ "id" : "471" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "89": {
+    "id": "89",
+    "name": "Missour",
+    "cities":
+    { "472"
+    :{ "id" : "472" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "90": {
+    "id": "90",
+    "name": "Mohammedia",
+    "cities": {
+      "381": {
+        "id": "381",
+        "name": "Amal"
+      },
+      "382": {
+        "id": "382",
+        "name": "Belle Vue"
+      },
+      "383": {
+        "id": "383",
+        "name": "Corniche"
+      },
+      "384": {
+        "id": "384",
+        "name": "El Alia"
+      },
+      "385": {
+        "id": "385",
+        "name": "El Kasbah"
+      },
+      "386": {
+        "id": "386",
+        "name": "La Siesta"
+      },
+      "387": {
+        "id": "387",
+        "name": "Mimosas"
+      },
+      "388": {
+        "id": "388",
+        "name": "Partie Est"
+      },
+      "389": {
+        "id": "389",
+        "name": "Wafa"
+      },
+      "390": {
+        "id": "390",
+        "name": "Yassmine"
+      },
+      "391": {
+        "id": "391",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "91": {
+    "id": "91",
+    "name": "Moulay Bousselham" ,
+    "cities":
+    { "474"
+    :{ "id" : "474" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "92": {
+    "id": "92",
+    "name": "Moulay Yaccoub",
+    "cities":
+    { "475"
+    :{ "id" : "475" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "93": {
+    "id": "93",
+    "name": "Nouaceur",
+    "cities":
+    { "476"
+    :{ "id" : "476" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "94": {
+    "id": "94",
+    "name": "Ouad Eddahab",
+    "cities":
+    { "477"
+    :{ "id" : "477" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "95": {
+    "id": "95",
+    "name": "Oualidia",
+    "cities":
+    { "478"
+    :{ "id" : "478" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "96": {
+    "id": "96",
+    "name": "Ouazzane",
+    "cities":
+    { "479"
+    :{ "id" : "479" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "97": {
+    "id": "97",
+    "name": "Oued Zem",
+    "cities":
+    { "480"
+    :{ "id" : "480" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "98": {
+    "id": "98",
+    "name": "Ouled Frej",
+    "cities":
+    { "481"
+    :{ "id" : "481" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "99": {
+    "id": "99",
+    "name": "Outat El Haj",
+    "cities":
+    { "482"
+    :{ "id" : "482" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "100": {
+    "id": "100",
+    "name": "Rissani",
+    "cities":
+    { "483"
+    :{ "id" : "483" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "101": {
+    "id": "101",
+    "name": "Saidia",
+    "cities":
+    { "484"
+    :{ "id" : "484" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "102": {
+    "id": "102",
+    "name": "Sala Al-Jadida",
+    "cities":
+    { "485"
+    :{ "id" : "485" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "103": {
+    "id": "103",
+    "name": "Sebt Gzoula",
+    "cities":
+    { "486"
+    :{ "id" : "486" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "104": {
+    "id": "104",
+    "name": "Sefrou",
+    "cities":
+    { "487"
+    :{ "id" : "487" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "105": {
+    "id": "105",
+    "name": "Selouane",
+    "cities":
+    { "488"
+    :{ "id" : "488" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "106": {
+    "id": "106",
+    "name": "Sidi Bennour",
+    "cities":
+    { "489"
+    :{ "id" : "489" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "107": {
+    "id": "107",
+    "name": "Sidi Bouzid",
+    "cities":
+    { "490"
+    :{ "id" : "490" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "108": {
+    "id": "108",
+    "name": "Sidi el Aîdi",
+    "cities":
+    { "491"
+    :{ "id" : "491" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "109": {
+    "id": "109",
+    "name": "Sidi Hajjaj",
+    "cities":
+    { "492"
+    :{ "id" : "492" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "110": {
+    "id": "110",
+    "name": "Sidi Ifni",
+    "cities":
+    { "493"
+    :{ "id" : "493" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "111": {
+    "id": "111",
+    "name": "Sidi Kacem",
+    "cities":
+    { "494"
+    :{ "id" : "494" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "112": {
+    "id": "112",
+    "name": "Sidi Rahhal",
+    "cities":
+    { "495"
+    :{ "id" : "495" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "113": {
+    "id": "113",
+    "name": "Sidi Slimane",
+    "cities":
+    { "496"
+    :{ "id" : "496" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "114": {
+    "id": "114",
+    "name": "Sidi Yahya El Gharb",
+    "cities":
+    { "407"
+    :{ "id" : "407" ,
+      "name" : "Toute la Ville"}
+    }
+  },
+  "115": {
+    "id": "115",
+    "name": "Soualem",
+    "cities":
+    { "498"
+    :{ "id" : "498" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "116": {
+    "id": "116",
+    "name": "Skhirat",
+    "cities": {
+      "392": {
+        "id": "392",
+        "name": "Kasbah"
+      },
+      "393": {
+        "id": "393",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "117": {
+    "id": "117",
+    "name": "Taghazout",
+    "cities":
+    { "500"
+    :{ "id" : "500" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "118": {
+    "id": "118",
+    "name": "Zagora",
+    "cities":
+    { "501"
+    :{ "id" : "501" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "119": {
+    "id": "119",
+    "name": "Tamaris",
+    "cities":
+    { "502"
+    :{ "id" : "502" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "120": {
+    "id": "120",
+    "name": "Tamensourt",
+    "cities":
+    { "503"
+    :{ "id" : "503" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "121": {
+    "id": "121",
+    "name": "Tamesna",
+    "cities":
+    { "504"
+    :{ "id" : "504" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "122": {
+    "id": "122",
+    "name": "Tamouda Bay",
+    "cities":
+    { "505"
+    :{ "id" : "505" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "123": {
+    "id": "123",
+    "name": "Tan-Tan",
+    "cities":
+    { "506"
+    :{ "id" : "506" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "124": {
+    "id": "124",
+    "name": "Taounate",
+    "cities":
+    { "507"
+    :{ "id" : "507" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "125": {
+    "id": "125",
+    "name": "Taourirt",
+    "cities":
+    { "508"
+    :{ "id" : "508" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "126": {
+    "id": "126",
+    "name": "Tarfaya",
+    "cities":
+    { "509"
+    :{ "id" : "509" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "127": {
+    "id": "127",
+    "name": "Taroudant",
+    "cities":
+    { "510"
+    :{ "id" : "510" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "128": {
+    "id": "128",
+    "name": "Tata",
+    "cities":
+    { "511"
+    :{ "id" : "511" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "129": {
+    "id": "129",
+    "name": "Temara",
+    "cities": {
+      "394": {
+        "id": "394",
+        "name": "Abbadi"
+      },
+      "395": {
+        "id": "395",
+        "name": "Ain Atig"
+      },
+      "396": {
+        "id": "396",
+        "name": "Centre Ville"
+      },
+      "397": {
+        "id": "397",
+        "name": "Harhoura"
+      },
+      "398": {
+        "id": "398",
+        "name": "Maghreb Arabi"
+      },
+      "399": {
+        "id": "399",
+        "name": "Massira"
+      },
+      "400": {
+        "id": "400",
+        "name": "Nemsia"
+      },
+      "401": {
+        "id": "401",
+        "name": "Riad Oulad Mtaa"
+      },
+      "402": {
+        "id": "402",
+        "name": "Skikina"
+      },
+      "403": {
+        "id": "403",
+        "name": "Talaa"
+      },
+      "404": {
+        "id": "404",
+        "name": "Temara Plage"
+      },
+      "405": {
+        "id": "405",
+        "name": "Wifak"
+      },
+      "406": {
+        "id": "406",
+        "name": "Autre secteur"
+      }
+    }
+  },
+  "130": {
+    "id": "130",
+    "name": "Temsia",
+    "cities":
+    { "513"
+    :{ "id" : "513" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "131": {
+    "id": "131",
+    "name": "Tifelt",
+    "cities":
+    { "514"
+    :{ "id" : "514" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "132": {
+    "id": "132",
+    "name": "Tikiouine",
+    "cities":
+    { "515"
+    :{ "id" : "515" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "133": {
+    "id": "133",
+    "name": "Tiznit",
+    "cities":
+    { "516"
+    :{ "id" : "516" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "134": {
+    "id": "134",
+    "name": "Youssoufia",
+    "cities":
+    { "517"
+    :{ "id" : "517" ,
+      "name" : "Toute la ville"}
+    }
+  },
+  "135": {
+    "id": "135",
+    "name": "Zemamra",
+    "cities": {
+      "518": {
+        "id": "518",
+        "name": "Toute la ville"
+      }
+    }
+  }
+}

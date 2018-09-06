@@ -1,0 +1,436 @@
+[
+  {
+    "id" : 5000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "INFORMATIQUE ET MULTIMEDIA",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5010,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Téléphones",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5080,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Tablettes",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5030,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Ordinateurs portables",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5050,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Ordinateurs de bureau",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5060,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Accessoires informatique et Gadgets",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5040,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Jeux vidéo et Consoles",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5070,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Appareils photo et Caméras",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5090,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Télévisions",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 5020,
+    "level" : 1,
+    "parent" : 5000,
+    "name" : "Image & Son",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "VEHICULES",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2010,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Voitures",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2030,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Motos",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2060,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Vélos",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2070,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Véhicules Professionnels",
+    "ad_types" : "s,u,k"
+  },
+  {
+    "id" : 2075,
+    "level" : 2,
+    "parent" : 2070,
+    "name" : "Engins BTP",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2073,
+    "level" : 2,
+    "parent" : 2070,
+    "name" : "Engins Agricole",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2072,
+    "level" : 2,
+    "parent" : 2070,
+    "name" : "Remorques et Caravanes",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2078,
+    "level" : 2,
+    "parent" : 2070,
+    "name" : "Camions",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2081,
+    "level" : 2,
+    "parent" : 2070,
+    "name" : "Autres",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2050,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Bateaux",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 2040,
+    "level" : 1,
+    "parent" : 2000,
+    "name" : "Pièces et Accessoires pour véhicules",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 1000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "IMMOBILIER",
+    "ad_types" : "s,u,h,k"
+  },
+  {
+    "id" : 1010,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Appartements",
+    "ad_types" : "s,u,h,k"
+  },
+  {
+    "id" : 1020,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Maisons et Villas",
+    "ad_types" : "s,u,h,k"
+  },
+  {
+    "id" : 1050,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Bureaux et Plateaux",
+    "ad_types" : "s,u,h,k"
+  },
+  {
+    "id" : 1060,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Magasins, Commerces et Locaux industriels",
+    "ad_types" : "s,u,h,k"
+  },
+  {
+    "id" : 1080,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Terrains et Fermes",
+    "ad_types" : "s"
+  },
+  {
+    "id" : 1030,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Locations de vacances",
+    "ad_types" : "u,h"
+  },
+  {
+    "id" : 1100,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Colocations",
+    "ad_types" : "u,h"
+  },
+  {
+    "id" : 1090,
+    "level" : 1,
+    "parent" : 1000,
+    "name" : "Autre Immobilier",
+    "ad_types" : "s"
+  },
+  {
+    "id" : 3000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "POUR LA MAISON ET JARDIN",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3010,
+    "level" : 1,
+    "parent" : 3000,
+    "name" : "Electroménager et Vaisselles",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3020,
+    "level" : 1,
+    "parent" : 3000,
+    "name" : "Meubles et Décoration",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3040,
+    "level" : 1,
+    "parent" : 3000,
+    "name" : "Jardin et Outils de bricolage",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 8000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "HABILLEMENT ET BIEN ETRE",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3050,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Vêtements",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3150,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Chaussures",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3160,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Montres et Bijoux",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3060,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Sacs et Accessoires",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3030,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Vêtements pour enfant et bébé",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3130,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Equipements pour enfant et bébé",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 3070,
+    "level" : 1,
+    "parent" : 8000,
+    "name" : "Produits de beauté",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "LOISIRS ET DIVERTISSEMENT",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4010,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Sports et Loisirs",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4030,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Animaux",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4070,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Instruments de Musique",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4060,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Art et Collections",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4050,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Voyages et Billetterie",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 4040,
+    "level" : 1,
+    "parent" : 4000,
+    "name" : "Films, Livres, Magazines",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "EMPLOI ET SERVICES",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6010,
+    "level" : 1,
+    "parent" : 6000,
+    "name" : "Offres d'emploi",
+    "ad_types" : "s"
+  },
+  {
+    "id" : 6020,
+    "level" : 1,
+    "parent" : 6000,
+    "name" : "Demandes d'emploi",
+    "ad_types" : "k"
+  },
+  {
+    "id" : 6130,
+    "level" : 1,
+    "parent" : 6000,
+    "name" : "Stages",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6030,
+    "level" : 1,
+    "parent" : 6000,
+    "name" : "Services",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6040,
+    "level" : 1,
+    "parent" : 6000,
+    "name" : "Cours et Formations",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 9000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "ENTREPRISES",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6100,
+    "level" : 1,
+    "parent" : 9000,
+    "name" : "Business et Affaires commerciales",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6090,
+    "level" : 1,
+    "parent" : 9000,
+    "name" : "Matériels Professionnels",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 6120,
+    "level" : 1,
+    "parent" : 9000,
+    "name" : "Stocks et Vente en gros",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 7000,
+    "level" : 0,
+    "parent" : null,
+    "name" : "Autres",
+    "ad_types" : "s,k"
+  },
+  {
+    "id" : 7010,
+    "level" : 1,
+    "parent" : 7000,
+    "name" : "AUTRES",
+    "ad_types" : "s,k"
+  }
+]

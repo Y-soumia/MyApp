@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Avito</string>
+    <string name="url">https://services.avito.ma/</string>
+    <string name="my_acc">Mon compte</string>
+    <string name="add_ad">Ajouter une annonce</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="action_settings">Parametres</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Nom</string>
+    <string name="select_city">Choisissez une ville</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="phone_number">Numéro de telephone</string>
+    <string name="hide_phone_number">Masquer mon numéro de telephone</string>
+    <string name="account_type">Type du compte</string>
+    <string name="acc_particular">Particulier</string>
+    <string name="acc_professional">Professionnel</string>
+    <string name="signUp">S\'inscrire</string>
+    <string name="logIn">Se connecter</string>
+    <string name="signUp_free">Nouveau ? Inscris-toi gratuitement !</string>
+    <string name="photos">Photos</string>
+    <string name="photos_text">Une annonce avec des photos est consultée en moyenne 7 fois plus qu\'une annonce sans photos</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="se_deconnecter">Se deconnecter</string>
+
+    <string-array name="select_pic">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+
+</resources>
